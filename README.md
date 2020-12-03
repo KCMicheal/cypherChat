@@ -1,5 +1,9 @@
 # Realtime & Fast Chat Application
 
+Welcome to the cypherChat room💬
+shh🤫. Keep the conversation going.🔥
+This time in secret!.
+
 ### [Live Site](https://cypherchat.netlify.app)
 
 ## Introduction
